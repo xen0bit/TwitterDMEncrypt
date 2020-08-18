@@ -24,7 +24,6 @@
   },
   "permissions": [
     "contextMenus",
-    "fileBrowserHandler",
     "https://twitter.com/*"
   ],
   "content_scripts": [
